@@ -1,4 +1,4 @@
-# Amazon-Sales-
+# Amazon-Sales-Dataset
 Amazon Sales Data_DAB501
 ## Data Set Description Example
 
